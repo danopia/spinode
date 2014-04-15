@@ -1,0 +1,28 @@
+{
+  "name": "spinode",
+  "version": "0.0.1",
+  "description": "Nodejs music server and jukebox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danopia/spinode.git"
+  },
+  "keywords": [
+    "music",
+    "player"
+  ],
+  "author": "Daniel Lamando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danopia/spinode/issues"
+  },
+  "homepage": "https://github.com/danopia/spinode",
+  "dependencies": {
+    "googleclientlogin": "^0.2.8",
+    "speaker": "0.0.10",
+    "lame": "^1.0.3"
+  }
+}
